@@ -1,0 +1,32 @@
+body {
+    background-color: grey;
+}
+
+.nav {
+  text-align: center;
+}
+
+.menu {
+  border-style: dashed;
+  width: 250px;
+  height: 200px;
+
+}
+
+.jakes-image {
+  position: relative;
+  left: 400px;
+  bottom: 205px;
+}
+
+.about {
+  border-right-style: solid;
+  width: 600px;
+  height: 250px;
+}
+
+.hours{
+  position: relative;
+  left: 690px;
+  bottom: 270px;
+}
